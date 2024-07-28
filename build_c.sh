@@ -24,7 +24,7 @@ add_compile_options(-g)
 
 # Specify the source files and header files
 set(SOURCES
-    ./source.c
+    ./${project_name}.c
 )
 
 # set(HEADERS
